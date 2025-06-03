@@ -1,0 +1,2 @@
+lst = [5, 9, 1, 7, 3]
+print("Largest number is:", max(lst))
